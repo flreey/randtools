@@ -14,6 +14,10 @@
 
 ---
 
+> 📖 **The story behind this site:** [I haven't written code in a year. Last week I forgot to git push and panicked.](https://dev.to/flreey/i-havent-written-code-in-a-year-last-week-i-forgot-to-git-push-and-panicked-16f5) — a developer's confession about building RandTools without writing a line of code.
+
+---
+
 ## What is RandTools?
 
 [**RandTools**](https://randtools.com) is a free online suite of random generator tools designed for developers, designers, writers, QA engineers, tabletop gamers, and decision-makers. Instead of bookmarking five different sites for random names, fake addresses, UUIDs, colors, and dice rolls, RandTools puts everything in one fast, modern, no-tracking interface.
